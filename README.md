@@ -18,6 +18,15 @@
 | 생활코딩                              | https://opentutorials.org/course/1                                           |
 | ZeroChoBlog                           | https://www.zerocho.com/                                                     |
 | Naver D2                              | https://d2.naver.com/home                                                    |
+| 스포카 기술 블로그                    | https://spoqa.github.io/                                                     |
+
+## React & React Native
+
+| 이름               | 주소                                                                                   |
+| ------------------ | -------------------------------------------------------------------------------------- |
+| React Native Seoul | https://medium.com/react-native-seoul                                                  |
+| 생활코딩(리액트)   | https://www.inflearn.com/course/react-%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9#description |
+| Velopert님 블로그  | https://velopert.com/775                                                               |
 
 ## Animating 관련 참고 자료
 
