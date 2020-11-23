@@ -13,6 +13,7 @@
 | HEROPYA Tech                          | https://heropy.blog/                                                         |
 | DEV-YAKUZA                            | https://dev-yakuza.posstree.com/ko/                                          |
 | 캡틴 판교                             | https://joshua1988.github.io/tech/                                           |
+| Shiren the creator                    | https://blog.shiren.dev/2020-11-23/                                          |
 | Outsider's Dev Story                  | https://blog.outsider.ne.kr/                                                 |
 | 44BITS                                | https://www.44bits.io/ko                                                     |
 | 생활코딩                              | https://opentutorials.org/course/1                                           |
