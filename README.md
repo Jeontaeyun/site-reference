@@ -20,6 +20,7 @@
 | ZeroChoBlog                           | https://www.zerocho.com/                                                     |
 | Naver D2                              | https://d2.naver.com/home                                                    |
 | 스포카 기술 블로그                    | https://spoqa.github.io/                                                     |
+| 개발자스러운 블로그(C언어)            | https://jungpaeng.tistory.com/                                               |
 
 ## React & React Native
 
